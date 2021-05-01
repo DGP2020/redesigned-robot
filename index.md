@@ -1,6 +1,6 @@
 ## Welcome to My site
 
-Hello, this is my personal site
+Hello, this is my personal site:grinning:
 
 ### MarkdownGitHub Pages
 
@@ -20,6 +20,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
